@@ -1,7 +1,6 @@
 MD5Hash
 =======
-- NSString category for generating MD5 digest from a string.
-- NSURL category for generating MD5 digest from a file.
+NSString/NSURL category for generating MD5 digest for a string or a file.
 
 Usage
 =====
